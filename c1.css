@@ -1,0 +1,23 @@
+.div {
+          width:450px;
+          height:200px;
+          background: white;
+          border-radius:3%;
+          margin: auto;
+          margin-top:150px;
+          font-weight:bold;
+          font-size:2em;
+          line-height:200px;
+      }
+ .p {
+     font-size: 1.5em;
+     color: red;
+     background: white;
+     width: 160px;
+     border-radius: 3%;
+     margin: auto;
+     margin-top: 50px;
+     text-align: center;
+     height: 50px;
+     line-height: 50px;
+ }
